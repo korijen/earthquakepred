@@ -1,0 +1,21 @@
+﻿time,Latitude,Longitude,Depth,Magnitude,magType,NbStations,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-04T17:29:29.700Z,19.38583374,-155.2476654,1.559999943,2.59,ml,45,45,0.003456,0.389999986,hv,hv74441421,2024-09-04T17:32:23.830Z,"6 km SSW of Volcano, Hawaii",earthquake,0.34,0.289999992,0.59,26,automatic,hv,hv
+2024-09-04T17:28:50.820Z,19.3568325,-155.2511597,0.100000001,2.62,ml,10,247,0.0187,0.289999992,hv,hv74441416,2024-09-04T17:31:44.940Z,"9 km S of Volcano, Hawaii",earthquake,0.93,0.769999981,0.41,24,automatic,hv,hv
+2024-09-04T16:53:44.570Z,19.38216667,-155.2383333,1.89,3.47,ml,56,40,0.008819,0.11,hv,hv74441311,2024-09-04T17:46:29.753Z,"6 km S of Volcano, Hawaii",earthquake,0.18,0.16,0.342234515,42,reviewed,hv,hv
+2024-09-04T16:39:24.792Z,5.2053,-82.666,10,4.8,mb,42,165,3.25,0.95,us,us6000nppn,2024-09-04T17:40:07.040Z,south of Panama,earthquake,8.88,1.922,0.094,35,reviewed,us,us
+2024-09-04T14:44:20.823Z,-16.6494,-72.7549,125.253,4,mb,10,169,2.869,0.34,us,us6000npnh,2024-09-04T15:35:18.843Z,"5 km WSW of CamanÃ¡, Peru",earthquake,9.15,13.34,0.365,2,reviewed,us,us
+2024-09-04T14:20:31.620Z,69.6136,-144.5141,0,3.2,ml,,,,1.02,ak,ak024bedqhp6,2024-09-04T14:24:28.245Z,"67 km SSW of Kaktovik, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-09-04T12:05:41.960Z,17.97016667,-66.99666667,9.27,2.57,md,16,182,0.04527,0.21,pr,pr71459253,2024-09-04T12:44:18.760Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.43,0.73,0.091601735,5,reviewed,pr,pr
+2024-09-04T11:13:32.240Z,38.46699905,-119.8566666,-0.779999971,2.62,md,9,157,0.418,0.31,nc,nc75057236,2024-09-04T16:19:50.192Z,"14 km N of Dardanelle, CA",earthquake,1.47,3.43000007,0.04,3,automatic,nc,nc
+2024-09-04T09:40:44.492Z,-7.4894,126.5235,10,5,mb,60,69,4.394,0.83,us,us6000npm7,2024-09-04T09:58:24.040Z,"109 km N of Baukau, Timor Leste",earthquake,8.96,1.866,0.076,55,reviewed,us,us
+2024-09-04T07:40:22.920Z,19.36716652,-155.2033386,27.18000031,2.66,ml,56,55,0.01324,0.129999995,hv,hv74440057,2024-09-04T17:03:23.522Z,"8 km SSE of Volcano, Hawaii",earthquake,0.34,0.330000013,0.33,44,automatic,hv,hv
+2024-09-04T06:55:58.456Z,59.9742,-139.1297,1.9,2.8,ml,,,,0.73,ak,ak024be96kx8,2024-09-04T06:59:36.162Z,"58 km NE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-04T03:54:26.930Z,17.941,-66.783,9.54,2.96,md,15,175,0.07899,0.32,pr,pr71459233,2024-09-04T04:49:11.030Z,"7 km SSE of Indios, Puerto Rico",earthquake,0.92,1.4,0.075391128,7,reviewed,pr,pr
+2024-09-04T02:36:08.403Z,-17.0775,-174.8282,210.107,4.5,mb,17,139,4.086,0.71,us,us6000npl8,2024-09-04T03:00:25.040Z,"166 km SW of Hihifo, Tonga",earthquake,9.71,9.658,0.171,10,reviewed,us,us
+2024-09-04T01:37:16.677Z,-18.6499,-70.9227,31.705,4,mwr,17,191,0.614,0.81,us,us6000npl0,2024-09-04T02:40:21.040Z,"68 km WSW of Arica, Chile",earthquake,5.59,6.598,0.066,22,reviewed,us,us
+2024-09-04T01:19:06.046Z,-21.2885,170.1611,109.367,5,mww,47,47,5.541,0.75,us,us6000npkz,2024-09-04T01:36:38.040Z,"214 km SSE of Isangel, Vanuatu",earthquake,10.4,7.038,0.098,10,reviewed,us,us
+2024-09-03T23:55:46.004Z,14.8461,122.6003,10,5,mb,78,120,8.058,0.69,us,us6000npkt,2024-09-04T01:07:07.436Z,"28 km ENE of Casuguran, Philippines",earthquake,9.79,1.868,0.064,77,reviewed,us,us
+2024-09-03T23:16:45.989Z,14.8725,122.6185,28.016,5.3,mww,78,79,8.036,0.78,us,us6000npkr,2024-09-04T10:22:37.326Z,"31 km ENE of Casuguran, Philippines",earthquake,9.34,5.211,0.069,20,reviewed,us,us
+2024-09-03T21:45:56.280Z,18.114,-65.765,10.3,3.27,md,22,137,0.0717,0.17,pr,pr71459223,2024-09-04T10:05:16.965Z,"5 km SSE of Bajandas, Puerto Rico",earthquake,0.31,0.44,0.103219038,14,reviewed,pr,pr
+2024-09-03T21:29:51.141Z,34.7088,32.2605,10.623,4.9,mb,95,99,0.916,0.76,us,us6000npk6,2024-09-04T17:25:22.309Z,"16 km SW of ChlÃ³rakas, Cyprus",earthquake,6.77,4.766,0.045,156,reviewed,us,us
+2024-09-03T20:41:25.514Z,60.148,-153.5954,48.8,2.5,ml,,,,0.53,ak,ak024bctw8ef,2024-09-03T20:44:10.541Z,"40 km E of Port Alsworth, Alaska",earthquake,,15.5,,,automatic,ak,ak
